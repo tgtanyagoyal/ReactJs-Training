@@ -1,0 +1,26 @@
+body {
+	background-color: blue;
+}
+#main {
+	text-align:center;
+	margin: 175px 175px 175px 350px;
+}
+#msg {
+	font-size: 40px;
+    width: 500px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#clock {
+    font-size: 50px;
+    width: 500px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#date {
+    font-size: 40px;
+    width: 500px;
+    margin-bottom: 50px;
+    text-align: center;
+}
